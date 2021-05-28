@@ -1,6 +1,6 @@
 ### University system project in java
 
 #### Team members
-* Zhaisan Sarsengaliyev
-* Ernazar Tolegen
-* Eldar Nurakhmet
+* Zhaisan Sarsengaliyev(Captain)
+* Ernazar Tolegen(Сyborg machine)
+* Eldar Nurakhmet(Сheerleader)
